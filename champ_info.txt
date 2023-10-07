@@ -1,0 +1,615 @@
+Name: 
+Role: 
+Damage type: 
+Difficulty: 
+Style: 
+Damage: 
+Toughness: 
+Crowd Control: 
+Mobility: 
+Utility: 
+
+Name: Aatrox
+Role: Fighter
+Damage type: Physical
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 3
+Crowd Control: 2
+Mobility: 2
+Utility: 2
+
+Name: Ahri
+Role: Assassin
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Akali
+Role: Assassin
+Damage type: Mixed
+Difficulty: 2
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Akshan
+Role: Marksman
+Damage type: Physical
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 2
+
+Name: Alistar
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 1
+Toughness: 3
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Amumu
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 2
+Toughness: 3
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Anivia
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Annie
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Aphelios
+Role: Marksman
+Damage type: Physical
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Ashe
+Role: Marksman
+Damage type: Physical
+Difficulty: 1
+Style: Basic Attack
+Damage: 2
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Aurelion Sol
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Azir
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Bard
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 1
+Toughness: 1
+Crowd Control: 3
+Mobility: 2
+Utility: 3
+
+Name: Bel'Veth
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Blitzcrank
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 1
+Toughness: 2
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Brand
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Braum
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 1
+Toughness: 2
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Briar
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Basic Attack
+Damage: 2
+Toughness: 2
+Crowd Control: 3
+Mobility: 3
+Utility: 1
+
+Name: Caitlyn
+Role: Marksman
+Damage type: Physical
+Difficulty: 1
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Camille
+Role: 
+Damage type: Physical
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Cassiopeia
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Cho'Gath
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 2
+Toughness: 3
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Corki
+Role: 
+Damage type: Mixed
+Difficulty: 2
+Style: Mixed
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Darius
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Mixed
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Diana
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Draven
+Role: 
+Damage type: Physical
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Dr. Mundo
+Role: 
+Damage type: Mixed
+Difficulty: 1
+Style: Mixed
+Damage: 2
+Toughness: 3
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Ekko
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Elise
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Evelynn
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 2
+Toughness: 2
+Crowd Control: 1
+Mobility: 2
+Utility: 2
+
+Name: Ezreal
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Basic Attack
+Damage: 2
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Fiddlesticks
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Fiora
+Role: 
+Damage type: Physical
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 2
+
+Name: Fizz
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Galio
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 2
+Toughness: 3
+Crowd Control: 3
+Mobility: 2
+Utility: 1
+
+Name: Gangplank
+Role: 
+Damage type: Physical
+Difficulty: 3
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 1
+Utility: 2
+
+Name: Garen
+Role: 
+Damage type: Physical
+Difficulty: 1
+Style: Abilities
+Damage: 2
+Toughness: 3
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Gnar
+Role: 
+Damage type: Physical
+Difficulty: 3
+Style: Mixed
+Damage: 2
+Toughness: 3
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Gragas
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 2
+Toughness: 3
+Crowd Control: 3
+Mobility: 2
+Utility: 1
+
+Name: Graves
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 2
+Utility: 2
+
+Name: Gwen
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Mixed
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Hecarim
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Abilities
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Heimerdinger
+Role: 
+Damage type: Magic
+Difficulty: 2
+Style: Abilities
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 2
+
+Name: Illaoi
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Abilities
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Irelia
+Role: 
+Damage type: Mixed
+Difficulty: 3
+Style: Basic Attack
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 2
+
+Name: Ivern
+Role: 
+Damage type: Magic
+Difficulty: 3
+Style: Basic Attack
+Damage: 1
+Toughness: 1
+Crowd Control: 3
+Mobility: 2
+Utility: 3
+
+Name: Janna
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 1
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 3
+
+Name: Jarvan IV
+Role: 
+Damage type: Physical
+Difficulty: 1
+Style: Mixed
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 2
+
+Name: Jax
+Role: 
+Damage type: Mixed
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Jayce
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Mixed
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 2
+
+Name: Jhin
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Jinx
+Role: 
+Damage type: Physical
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Kai'Sa
+Role: 
+Damage type: Mixed
+Difficulty: 2
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 0
+Mobility: 3
+Utility: 1
+
+Name: Kalista
+Role: 
+Damage type: Physical
+Difficulty: 3
+Style: Basic Attack
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 2
+
+Name: Karma
+Role: 
+Damage type: Magic
+Difficulty: 1
+Style: Abilities
+Damage: 2
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 2
