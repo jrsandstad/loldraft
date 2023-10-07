@@ -1,0 +1,13 @@
+Blue: #3e7bfa
+
+Red: #ff5c5c
+
+Gold: #dda74f
+
+White: #ffffff
+
+Black: #080808
+
+Medium grey: #111111
+
+Light grey: #1c1c1c
