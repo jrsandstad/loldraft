@@ -1,3 +1,4 @@
+
 Name: 
 Release: 
 Gender: 
@@ -231,3 +232,1263 @@ Toughness: 1
 Crowd Control: 2
 Mobility: 2
 Utility: 1
+
+Name: Bard
+Release: 2015
+Gender: Male
+Region: Runeterra
+Race: Celestial
+Lane: Support
+Role: Support, Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 3
+Damage: 1
+Toughness: 1
+Crowd Control: 3
+Mobility: 2
+Utility: 3
+
+Name: Bel'Veth
+Release: 2022
+Gender: Female
+Region: Void
+Race: Voidborn
+Lane: Jungle
+Role: Fighter
+Damage type: Physical
+Resource: Manaless
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Blitzcrank
+Release: 2009
+Gender: Non-binary
+Region: Zaun
+Race: Techmaturgical Golem
+Lane: Support
+Role: Tank, Fighter
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 1
+Toughness: 2
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Brand
+Release: 2011
+Gender: Male
+Region: Freljord
+Race: Human
+Lane: Support
+Role: Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Braum
+Release: 2014
+Gender: Male
+Region: Freljord
+Race: Human
+Lane: Support
+Role: Support, Tank
+Damage type: Mage
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 1
+Toughness: 2
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Briar
+Release: 2023
+Gender: Female
+Region: Noxus
+Race: Blood Golem
+Lane: Jungle
+Role: Jungle
+Damage type: Fighter, Assassin
+Resource: Health
+Range: Melee
+Style: Physical
+Difficulty: 2
+Damage: 2
+Toughness: 2
+Crowd Control: 3
+Mobility: 3
+Utility: 1
+
+Name: Caitlyn
+Release: 2011
+Gender: Female
+Region: Piltover
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 1
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Camille
+Release: 2016
+Gender: Female
+Region: Piltover
+Race: Human
+Lane: Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 3
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Cassiopeia
+Release: 2010
+Gender: Female
+Region: Noxus
+Race: Human
+Lane: Middle
+Role: Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 3
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Cho'Gath
+Release: 2009
+Gender: Non-binary
+Region: Void
+Race: Voidborn
+Lane: Top, Middle
+Role: Tank, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 2
+Toughness: 3
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Corki
+Release: 2009
+Gender: Male
+Region: Bandle City
+Race: Yordle
+Lane: Middle
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Darius
+Release: 2012
+Gender: Male
+Region: Noxus
+Race: Human
+Lane: Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Diana
+Release: 2012
+Gender: Female
+Region: Targon
+Race: Aspect Host
+Lane: Jungle, Middle
+Role: Fighter, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Dr. Mundo
+Release: 2009
+Gender: Male
+Region: Zaun
+Race: Human
+Lane: Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Health
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 2
+Toughness: 3
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Draven
+Release: 2012
+Gender: Male
+Region: Noxus
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Ekko
+Release: 2015
+Gender: Male
+Region: Zaun
+Race: Human
+Lane: Jungle, Middle
+Role: Assassin, Fighter
+Damage type: Mage
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 3
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Elise
+Release: 2012
+Gender: Female
+Region: Shadow Isles
+Race: Human
+Lane: Jungle
+Role: Mage, Fighter
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Evelynn
+Release: 2009
+Gender: Female
+Region: Runeterra
+Race: Demon
+Lane: Jungle
+Role: Assassin, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 2
+Toughness: 2
+Crowd Control: 1
+Mobility: 2
+Utility: 2
+
+Name: Ezreal
+Release: 2010
+Gender: Male
+Region: Piltover
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 1
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Fiddlesticks
+Release: 2009
+Gender: Non-binary
+Region: Runeterra
+Race: Demon
+Lane: Jungle
+Role: Mage, Support
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Fiora
+Release: 2012
+Gender: Female
+Region: Demacia
+Race: Human
+Lane: Top
+Role: Fighter, Assassin
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 2
+
+Name: Fizz
+Release: 2011
+Gender: Male
+Region: Bilgewater
+Race: Yordle
+Lane: Middle
+Role: Assassin, Fighter
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Galio
+Release: 2010
+Gender: Male
+Region: Demacia
+Race: Petricite Golem
+Lane: Middle, Support
+Role: Tank, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 2
+Toughness: 3
+Crowd Control: 3
+Mobility: 2
+Utility: 1
+
+Name: Gangplank
+Release: 2009
+Gender: Male
+Region: Bilgewater
+Race: Male
+Lane: Top
+Role: Fighter
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 3
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 1
+Utility: 2
+
+Name: Garen
+Release: 2010
+Gender: Male
+Region: Demacia
+Race: Human
+Lane: Top, Middle
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Manaless
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 2
+Toughness: 3
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Gnar
+Release: 2014
+Gender: Male
+Region: Freljord
+Race: Yordle
+Lane: Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Rage
+Range: Ranged
+Style: Autoattack
+Difficulty: 3
+Damage: 2
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Gragas
+Release: 2010
+Gender: Male
+Region: Freljord
+Race: Human
+Lane: Jungle
+Role: Fighter, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 2
+Toughness: 3
+Crowd Control: 3
+Mobility: 2
+Utility: 1
+
+Name: Graves
+Release: 2011
+Gender: Male
+Region: Bilgewater
+Race: Human
+Lane: Jungle
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 2
+Utility: 2
+
+Name: Gwen
+Release: 2021
+Gender: Female
+Region: Shadow Isles
+Race: Human
+Lane: Top, Middle
+Role: Fighter, Assassin
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Hecarim
+Release: 2012
+Gender: Male
+Region: Shadow Isles
+Race: Wraith
+Lane: Jungle, Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Heimerdinger
+Release: 2009
+Gender: Male
+Region: Piltover
+Race: Yordle
+Lane: Middle, Top
+Role: Mage, Support
+Damage type: Mage
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 2
+
+Name: Illaoi
+Release: 2015
+Gender: Female
+Region: Bilgewater
+Race: Human
+Lane: Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Irelia
+Release: 2010
+Gender: Female
+Region: Ionia
+Race: Human
+Lane: Top, Middle
+Role: Fighter, Assassin
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 2
+
+Name: Ivern
+Release: 2016
+Gender: Male
+Region: Ionia
+Race: Human
+Lane: Jungle, Middle
+Role: Support, Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 3
+Damage: 1
+Toughness: 1
+Crowd Control: 3
+Mobility: 2
+Utility: 3
+
+Name: Janna
+Release: 2009
+Gender: Female
+Region: Zaun
+Race: Spirit God
+Lane: Support
+Role: Support, Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 1
+Damage: 1
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 3
+
+Name: Jarvan IV
+Release: 2011
+Gender: Male
+Region: Demacia
+Race: Human
+Lane: Jungle
+Role: Tank, Fighter
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 2
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 2
+
+Name: Jax
+Release: 2009
+Gender: Male
+Region: Runeterra
+Race: Unknown
+Lane: Top
+Role: Fighter, Assassin
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 1
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 2
+Utility: 1
+
+Name: Jayce
+Release: 2012
+Gender: Male
+Region: Piltover
+Race: Human
+Lane: Top, Middle
+Role: Fighter, Marksman
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 2
+
+Name: Jhin
+Release: 2016
+Gender: Male
+Region: Ionia
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: Jinx
+Release: 2013
+Gender: Female
+Region: Zaun
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 1
+
+Name: K'Sante
+Release: 2022
+Gender: Male
+Region: Shurima
+Race: Human
+Lane: Top
+Role: Tank, Fighter
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 3
+Damage: 2
+Toughness: 3
+Crowd Control: 3
+Mobility: 2
+Utility: 2
+
+Name: Kai'Sa
+Release: 2018
+Gender: Female
+Region: Void
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Kalista
+Release: 2014
+Gender: Female
+Region: Shadow Isles
+Race: Wraith
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 3
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 2
+
+Name: Karma
+Release: 2011
+Gender: Female
+Region: Ionia
+Race: Human
+Lane: Support, Top
+Role: Mage, Support
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 1
+Damage: 2
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 2
+
+Name: Karthus
+Release: 2009
+Gender: Male
+Region: Shadow Isles
+Race: Wraith
+Lane: Jungle
+Role: Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 1
+Utility: 2
+
+Name: Kassadin
+Release: 2009
+Gender: Male
+Region: Void
+Race: Human
+Lane: Middle
+Role: Assassin, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Katarina
+Release: 2009
+Gender: Female
+Region: Noxus
+Race: Human
+Lane: Middle
+Role: Assassin, Mage
+Damage type: Magic
+Resource: Manaless
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Kayle
+Release: 2009
+Gender: Female
+Region: Demacia
+Race: Human
+Lane: Top
+Role: Fighter, Support
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 1
+Utility: 3
+
+Name: Kayn
+Release: 2017
+Gender: Male
+Region: Ionia
+Race: Human
+Lane: Jungle
+Role: Fighter, Assassin
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Kennen
+Release: 2010
+Gender: Male
+Region: Ionia
+Race: Yordle
+Lane: Top
+Role: Mage, Marksman
+Damage type: Mage
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Kha'Zix
+Release: 2012
+Gender: Male
+Region: Void
+Race: Voidborn
+Lane: Jungle
+Role: Assassin
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Kindred
+Release: 2015
+Gender: Female
+Region: Runeterra
+Race: Spirit God
+Lane: Jungle
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 3
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 2
+
+Name: Kled
+Release: 2016
+Gender: Male
+Region: Noxus
+Race: Yordle
+Lane: Top
+Role: Fighter, Tank
+Damage type: Physical
+Resource: Courage
+Range: Melee
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Kog'Maw
+Release: 2010
+Gender: Male
+Region: Void
+Race: Voidborn
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: LeBlanc
+Release: 2010
+Gender: Female
+Region: Noxus
+Race: Human
+Lane: Middle
+Role: Assassin, Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Lee Sin
+Release: 2011
+Gender: Male
+Region: Ionia
+Race: Human
+Lane: Jungle
+Role: Fighter, Assassin
+Damage type: Physical
+Resource: Energy
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 2
+Mobility: 3
+Utility: 1
+
+Name: Leona
+Release: 2011
+Gender: Female
+Region: Targon
+Race: Aspect Host
+Lane: Support
+Role: Tank, Support
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 1
+Toughness: 3
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Lillia
+Release: 2020
+Gender: Female
+Region: Ionia
+Race: Fae Fawn
+Lane: Jungle, Top, Middle
+Role: Fighter, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 3
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 2
+Utility: 2
+
+Name: Lissandra
+Release: 2013
+Gender: Female
+Region: Freljord
+Race: Human
+Lane: Middle
+Role: Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 2
+Utility: 1
+
+Name: Lucian
+Release: 2013
+Gender: Male
+Region: Runeterra
+Race: Human
+Lane: Bottom, Top, Middle
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 2
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 3
+Utility: 1
+
+Name: Lulu
+Release: 2012
+Gender: Female
+Region: Bandle City
+Race: Yordle
+Lane: Support
+Role: Support, Mage
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 2
+Damage: 2
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 3
+
+Name: Lux
+Release: 2010
+Gender: Female
+Region: Demacia
+Race: Human
+Lane: Middle, Support
+Role: Mage, Support
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 1
+Damage: 3
+Toughness: 1
+Crowd Control: 2
+Mobility: 1
+Utility: 2
+
+Name: Malphite
+Release: 2009
+Gender: Male
+Region: Ixtal
+Race: Elemental Golem
+Lane: Top, Support, Middle
+Role: Tank, Fighter
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 1
+Toughness: 3
+Crowd Control: 3
+Mobility: 1
+Utility: 1
+
+Name: Malzahar
+Release: 2010
+Gender: Male
+Region: Void
+Race: Human
+Lane: Middle
+Role: Mage, Assassin
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 1
+Damage: 3
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Maokai
+Release: 2011
+Gender: Male
+Region: Shadow Isles
+Race: Treant
+Lane: Jungle, Top, Support
+Role: Tank, Mage
+Damage type: Magic
+Resource: Mana
+Range: Melee
+Style: Abilities
+Difficulty: 1
+Damage: 1
+Toughness: 3
+Crowd Control: 3
+Mobility: 1
+Utility: 2
+
+Name: Master Yi
+Release: 2009
+Gender: Male
+Region: Ionia
+Race: Human
+Lane: Jungle
+Role: Assassin, Fighter
+Damage type: Physical
+Resource: Mana
+Range: Melee
+Style: Autoattack
+Difficulty: 1
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 2
+Utility: 1
+
+Name: Milio
+Release: 2023
+Gender: Male
+Region: Ixtal
+Race: Human
+Lane: Support
+Role: Support, Mage
+Damage type: Mage
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 1
+Damage: 1
+Toughness: 1
+Crowd Control: 2
+Mobility: 3
+Utility: 3
+
+Name: Miss Fortune
+Release: 2010
+Gender: Female
+Region: Bilgewater
+Race: Human
+Lane: Bottom
+Role: Marksman
+Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
+Difficulty: 1
+Damage: 3
+Toughness: 1
+Crowd Control: 1
+Mobility: 1
+Utility: 1
+
+Name: Mordekaiser
+Release: 2010
+Gender: Male
+Region: Noxus
+Race: Revenant
+Lane: Top
+Role: Fighter
+Damage type: Mage
+Resource: Shield
+Range: Melee
+Style: Abilities
+Difficulty: 2
+Damage: 3
+Toughness: 2
+Crowd Control: 1
+Mobility: 1
+Utility: 2
+
+Name: Morgana
+Release: 2009
+Gender: Female
+Region: Demacia
+Race: Human
+Lane: Support
+Role: Mage, Support
+Damage type: Magic
+Resource: Mana
+Range: Ranged
+Style: Abilities
+Difficulty: 1
+Damage: 2
+Toughness: 1
+Crowd Control: 3
+Mobility: 1
+Utility: 2
