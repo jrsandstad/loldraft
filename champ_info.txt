@@ -1,8 +1,15 @@
 Name: 
+Release: 
+Gender: 
+Region: 
+Race: 
+Lane: 
 Role: 
 Damage type: 
-Difficulty: 
+Resource: 
+Range: 
 Style: 
+Difficulty: 
 Damage: 
 Toughness: 
 Crowd Control: 
@@ -10,10 +17,17 @@ Mobility:
 Utility: 
 
 Name: Aatrox
-Role: Fighter
+Release: 2013
+Gender: Male
+Region: Runeterra, Shurima
+Race: Darkin
+Lane: Top, Middle
+Role: Fighter, Tank
 Damage type: Physical
+Resource: Manaless
+Range: Melee
+Style: Autoattack
 Difficulty: 2
-Style: Basic Attack
 Damage: 3
 Toughness: 3
 Crowd Control: 2
@@ -21,10 +35,17 @@ Mobility: 2
 Utility: 2
 
 Name: Ahri
-Role: Assassin
+Release: 2011
+Gender: Female
+Region: Ionia
+Race: Vastaya
+Lane: Middle
+Role: Mage, Assassin
 Damage type: Magic
-Difficulty: 2
+Resource: Mana
+Range: Ranged
 Style: Abilities
+Difficulty: 2
 Damage: 3
 Toughness: 1
 Crowd Control: 2
@@ -32,10 +53,17 @@ Mobility: 3
 Utility: 1
 
 Name: Akali
+Release: 2010
+Gender: Female
+Region: Ionia
+Race: Human
+Lane: Middle, Top
 Role: Assassin
-Damage type: Mixed
-Difficulty: 2
+Damage type: Physical
+Resource: Energy
+Range: Melee
 Style: Abilities
+Difficulty: 2
 Damage: 3
 Toughness: 1
 Crowd Control: 1
@@ -43,10 +71,17 @@ Mobility: 3
 Utility: 1
 
 Name: Akshan
-Role: Marksman
-Damage type: Physical
+Release: 2021
+Gender: Male
+Region: Shurima
+Race: Human
+Lane: Middle
+Role: Marksman, Assassin
+Damage type: 
+Resource: Mana
+Range: Ranged
+Style: Autoattack
 Difficulty: 3
-Style: Basic Attack
 Damage: 3
 Toughness: 1
 Crowd Control: 1
@@ -54,10 +89,17 @@ Mobility: 3
 Utility: 2
 
 Name: Alistar
-Role: 
+Release: 2009
+Gender: Male
+Region: Runeterra
+Race: Minotaur
+Lane: Support
+Role: Support, Tank
 Damage type: Magic
-Difficulty: 1
+Resource: Mana
+Range: Melee
 Style: Abilities
+Difficulty: 1
 Damage: 1
 Toughness: 3
 Crowd Control: 3
@@ -65,10 +107,17 @@ Mobility: 1
 Utility: 2
 
 Name: Amumu
-Role: 
+Release: 2009
+Gender: Male
+Region: Shurima
+Race: Yordle
+Lane: Jungle
+Role: Tank, Mage
 Damage type: Magic
-Difficulty: 1
+Resource: Mana
+Range: Melee
 Style: Abilities
+Difficulty: 1
 Damage: 2
 Toughness: 3
 Crowd Control: 3
@@ -76,10 +125,17 @@ Mobility: 1
 Utility: 1
 
 Name: Anivia
-Role: 
+Release: 2009
+Gender: Female
+Region: Freljord
+Race: Spirit God
+Lane: Middle
+Role: Mage, Support
 Damage type: Magic
-Difficulty: 3
+Resource: Mana
+Range: Ranged
 Style: Abilities
+Difficulty: 3
 Damage: 3
 Toughness: 1
 Crowd Control: 3
@@ -87,10 +143,17 @@ Mobility: 1
 Utility: 2
 
 Name: Annie
-Role: 
+Release: 2009
+Gender: Female
+Region: Noxus
+Race: Human
+Lane: Middle
+Role: Mage
 Damage type: Magic
-Difficulty: 1
+Resource: Mana
+Range: Ranged
 Style: Abilities
+Difficulty: 1
 Damage: 3
 Toughness: 1
 Crowd Control: 3
@@ -98,10 +161,17 @@ Mobility: 1
 Utility: 2
 
 Name: Aphelios
+Release: 2019
+Gender: Male
+Region: Targon
+Race: Human
+Lane: Bottom
 Role: Marksman
 Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
 Difficulty: 3
-Style: Basic Attack
 Damage: 3
 Toughness: 1
 Crowd Control: 2
@@ -109,10 +179,17 @@ Mobility: 1
 Utility: 1
 
 Name: Ashe
-Role: Marksman
+Release: 2009
+Gender: Female
+Region: Freljord
+Race: Human
+Lane: Bottom
+Role: Marksman, Support
 Damage type: Physical
+Resource: Mana
+Range: Ranged
+Style: Autoattack
 Difficulty: 1
-Style: Basic Attack
 Damage: 2
 Toughness: 1
 Crowd Control: 3
@@ -120,10 +197,17 @@ Mobility: 1
 Utility: 2
 
 Name: Aurelion Sol
-Role: 
+Release: 2016
+Gender: Male
+Region: Runeterra
+Race: Celestial Dragon
+Lane: Middle
+Role: Mage
 Damage type: Magic
-Difficulty: 3
+Resource: Mana
+Range: Ranged
 Style: Abilities
+Difficulty: 3
 Damage: 3
 Toughness: 1
 Crowd Control: 2
@@ -131,1695 +215,19 @@ Mobility: 2
 Utility: 1
 
 Name: Azir
-Role: 
+Release: 2014
+Gender: Male
+Region: Shurima
+Race: God-Warrior
+Lane: Middle
+Role: Mage, Marksman
 Damage type: Magic
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Bard
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 1
-Toughness: 1
-Crowd Control: 3
-Mobility: 2
-Utility: 3
-
-Name: Bel'Veth
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Blitzcrank
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 2
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Brand
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Braum
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 2
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Briar
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 3
-Mobility: 3
-Utility: 1
-
-Name: Caitlyn
-Role: Marksman
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Camille
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Cassiopeia
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Cho'Gath
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Corki
-Role: 
-Damage type: Mixed
-Difficulty: 2
+Resource: Mana
+Range: Ranged
 Style: Mixed
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Darius
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Mixed
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Diana
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Draven
-Role: 
-Damage type: Physical
 Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Dr. Mundo
-Role: 
-Damage type: Mixed
-Difficulty: 1
-Style: Mixed
-Damage: 2
-Toughness: 3
-Crowd Control: 1
-Mobility: 1
-Utility: 1
-
-Name: Ekko
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Elise
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Evelynn
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 1
-Mobility: 2
-Utility: 2
-
-Name: Ezreal
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Basic Attack
-Damage: 2
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Fiddlesticks
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Fiora
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Fizz
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Galio
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Gangplank
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 1
-Utility: 2
-
-Name: Garen
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 1
-Mobility: 1
-Utility: 1
-
-Name: Gnar
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Mixed
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Gragas
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Graves
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 2
-Utility: 2
-
-Name: Gwen
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Mixed
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Hecarim
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Heimerdinger
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Illaoi
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 1
-Utility: 1
-
-Name: Irelia
-Role: 
-Damage type: Mixed
-Difficulty: 3
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 3
-Utility: 2
-
-Name: Ivern
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Basic Attack
-Damage: 1
-Toughness: 1
-Crowd Control: 3
-Mobility: 2
-Utility: 3
-
-Name: Janna
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 3
-
-Name: Jarvan IV
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Mixed
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Jax
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Jayce
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Mixed
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 2
-
-Name: Jhin
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Jinx
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Kai'Sa
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 0
-Mobility: 3
-Utility: 1
-
-Name: Kalista
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 2
-
-Name: Karma
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Karthus
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 1
-Utility: 2
-
-Name: Kassadin
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Katarina
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Kayle
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 1
-Utility: 3
-
-Name: Kayn
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Kennen
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Kha'Zix
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Mixed
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Kindred
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 2
-
-Name: Kled
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Kog'Maw
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 1
-Utility: 1
-
-Name: K'Sante
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 2
-
-Name: LeBlanc
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Lee Sin
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Mixed
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Leona
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Lillia
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
 Damage: 3
 Toughness: 1
 Crowd Control: 2
 Mobility: 2
-Utility: 2
-
-Name: Lissandra
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Lucian
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Lulu
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Lux
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Malphite
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Malzahar
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Maokai
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Master Yi
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Milio
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Miss Fortune
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 1
-Utility: 1
-
-Name: Mordekaiser
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 1
-Utility: 2
-
-Name: Morgana
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Naafiri
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Nami
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Nasus
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Nautilus
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Neeko
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Nidalee
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 2
-
-Name: Nilah
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 2
-
-Name: Nocturne
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Nunu & Willump
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Olaf
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Orianna
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Ornn
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Pantheon
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Poppy
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Pyke
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 3
-Mobility: 3
-Utility: 1
-
-Name: Qiyana
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Quinn
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Rakan
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 2
-Crowd Control: 3
-Mobility: 3
-Utility: 3
-
-Name: Rammus
-Role: 
-Damage type: Mixed
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Rek'Sai
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Rell
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 2
-
-Name: Renata Glasc
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Renekton
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Mixed
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Rengar
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Riven
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Rumble
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Ryze
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Samira
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Sejuani
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Senna
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Seraphine
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 2
-
-Name: Sett
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Shaco
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Mixed
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Shen
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Mixed
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 2
-Utility: 3
-
-Name: Shyvana
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Mixed
-Damage: 2
-Toughness: 2
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Singed
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Sion
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Sivir
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 1
-Utility: 2
-
-Name: Skarner
-Role: 
-Damage type: Mixed
-Difficulty: 1
-Style: Mixed
-Damage: 1
-Toughness: 3
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Sona
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Soraka
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Swain
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Sylas
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Syndra
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Tahm Kench
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Taliyah
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Talon
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Taric
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 1
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 3
-
-Name: Teemo
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Thresh
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 1
-Toughness: 2
-Crowd Control: 3
-Mobility: 1
-Utility: 3
-
-Name: Tristana
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Trundle
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 2
-Toughness: 3
-Crowd Control: 1
-Mobility: 1
-Utility: 2
-
-Name: Tryndamere
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Twisted Fate
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 2
-
-Name: Twitch
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 2
-Utility: 1
-
-Name: Udyr
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Urgot
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Varus
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Vayne
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Veigar
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Vel'Koz
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Vex
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Vi
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Mixed
-Damage: 2
-Toughness: 2
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Viego
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basi Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Viktor
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Vladimir
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 2
-Crowd Control: 1
-Mobility: 1
-Utility: 1
-
-Name: Volibear
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 2
-Toughness: 3
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Warwick
-Role: 
-Damage type: Mixed
-Difficulty: 1
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Wukong
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Mixed
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Xayah
-Role: 
-Damage type: Physical
-Difficulty: 2
-Style: Basic Attack
-Damage: 3
-Toughness: 2
-Crowd Control: 3
-Mobility: 1
-Utility: 1
-
-Name: Xerath
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 1
-Utility: 1
-
-Name: Xin Zhao
-Role: 
-Damage type: Physical
-Difficulty: 1
-Style: Basic Attack
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Yasuo
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Basic Attack
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 2
-
-Name: Yone
-Role: 
-Damage type: Mixed
-Difficulty: 3
-Style: Mixed
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 1
-
-Name: Yorick
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Mixed
-Damage: 2
-Toughness: 2
-Crowd Control: 2
-Mobility: 1
-Utility: 2
-
-Name: Yuumi
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 1
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 3
-
-Name: Zac
-Role: 
-Damage type: Magic
-Difficulty: 1
-Style: Abilities
-Damage: 2
-Toughness: 3
-Crowd Control: 3
-Mobility: 2
-Utility: 1
-
-Name: Zed
-Role: 
-Damage type: Physical
-Difficulty: 3
-Style: Mixed
-Damage: 3
-Toughness: 1
-Crowd Control: 1
-Mobility: 3
-Utility: 1
-
-Name: Zeri
-Role: 
-Damage type: Mixed
-Difficulty: 2
-Style: Basic Attack
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 3
-Utility: 0
-
-Name: Ziggs
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Zilean
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 2
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 3
-
-Name: Zoe
-Role: 
-Damage type: Magic
-Difficulty: 3
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 2
-Mobility: 2
-Utility: 1
-
-Name: Zyra
-Role: 
-Damage type: Magic
-Difficulty: 2
-Style: Abilities
-Damage: 3
-Toughness: 1
-Crowd Control: 3
-Mobility: 1
 Utility: 1
