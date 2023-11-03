@@ -1428,7 +1428,7 @@ Region: Ixtal
 Race: Human
 Lane: Support
 Role: Support, Mage
-Damage type: Mage
+Damage type: Magic
 Resource: Mana
 Range: Ranged
 Style: Abilities
